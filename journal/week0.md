@@ -22,7 +22,7 @@ Proof that another budget was created for $50 on top of the previoius budget I a
 
 ### Use Cloud Shell
 
-![Proof of cloud shell use}(assets/CLOUDSHELL.png)
+![Proof of cloud shell use](assets/CLOUDSHELL.png)
 
 Proof of using Cloudshell in the AWS platform. 
 
